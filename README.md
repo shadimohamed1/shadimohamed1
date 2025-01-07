@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadimohamed1&theme=highcontrast" alt="shadimohamed1" /></p>
 ---
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
