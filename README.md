@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <a href="https://www.google.com.eg/search?q=shadi+mohamed"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;?lines=Mail%20me%;&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20"> 
   </a> 
 </p>
 
@@ -75,6 +75,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
 ---
+
+
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
