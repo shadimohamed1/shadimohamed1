@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadi</h1>
 <h3 align="center">
-  I’m an undergraduate computer engineering student with a strong interest in web development and artificial intelligence.  
+  I’m a graduate computer engineering student with a strong interest in web development and artificial intelligence.  
   I’m motivated to use my skills to create technology that makes a real difference and to explore new possibilities in both fields.
 </h3>
 
